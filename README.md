@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm an older guy trying to learn **web development** while working in a 3-shift job in a factory. On my free time I also like working out at the gym, walking and playing guitar.
+
+- 🌱 I’m currently learning **HTML, CSS** and **Javascript**. After I start feeling comfortable with Javascript I'm planning on learning either **React.JS** or **Vue.Js** next...
+- 🔭 I’m currently working on building a **responsive website**. Pretty basic one, but this will be my first using a mobile first approach. Because of my busy daily schedule this will be a bit slow, but I'm looking forward to getting practice with building layouts using CSS Grid and Flexbox on top of all the other stuff.
+  
 <!--
 **HopelessHuckleberry/HopelessHuckleberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
